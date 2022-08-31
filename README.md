@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @pauloalves
+-  Hi, I’m @pauloalves
