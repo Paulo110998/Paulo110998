@@ -49,7 +49,6 @@
 <img align="center" alt="VSCode" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
 </div><br/><br/>
 
-
 ## Apaixonado por tecnologia, música e café ☕
 
 
