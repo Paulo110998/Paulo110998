@@ -51,10 +51,6 @@
 
 
 
-# My Projects
+### Apaixonado por tecnologia, música e café ☕
 
-- [Invest360](https://brasilportugalinvest360.com/) - Plataforma de investimentos luso-brasileiro. Desenvolvida em Django.<br/>
-- [Your Projects](https://clownfish-app-jitiq.ondigitalocean.app/) - Aplicação web demonstrativa em django, para testes da arquitetura MTV.<br/>
-- [Music API Consumption](https://github.com/Paulo110998/Music_api_consumption.git) - Projeto que exibe a desserialização e serialização de dados de uma API de música, o uso do HttpClient (.NET), LINQ, e a criação de arquivos em C#.<br/>
 
-- [Paulo Alves - Portiffolio](https://pauloalves.dev.br/) - Portifólio desenvolvido em React.js.
