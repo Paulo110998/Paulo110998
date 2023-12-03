@@ -50,7 +50,6 @@
 </div><br/><br/>
 
 
-
-### Apaixonado por tecnologia, música e café ☕
+## Apaixonado por tecnologia, música e café ☕
 
 
