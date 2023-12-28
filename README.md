@@ -6,6 +6,7 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5582993112813)
 
 ![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulo110998&show_icons=true&theme=dracula)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo110998&hide=javascript,html)
 
 
