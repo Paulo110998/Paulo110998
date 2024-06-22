@@ -38,4 +38,5 @@
 
 ## Passionate about technology, music and coffee ☕
 
+#### Note: My featured projects are on my website because they are private.
 
