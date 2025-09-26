@@ -41,7 +41,7 @@
 - **Banco de Dados:** SQL Server, MySQL, PostgreSQL, MongoDB  
 - **Infra & DevOps:** Docker, Nginx, RabbitMQ, MinIO (S3), GitHub Webhooks, DigitalOcean, Hetzner, Heroku, Vercel  
 - **Integrações:** EfíPay (Gerencianet)  
-- **Front-End:** HTML5, CSS3, Javascript, Ajax, jQuery, Bootstrap, ReactJS  
+- **Front-End:** HTML5, CSS3, Javascript, Ajax, jQuery, Bootstrap,, Tailwind, ReactJS  
 - **Frameworks Web:** Laravel, Django  
 - **Metodologias Ágeis:** Scrum, Kanban  
 
