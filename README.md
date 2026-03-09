@@ -33,17 +33,27 @@
 
 ---
 
-## Outras Competências
+## 𝗛𝗮𝗯𝗶𝗹𝗶𝗱𝗮𝗱𝗲𝘀 𝗧𝗲́𝗰𝗻𝗶𝗰𝗮𝘀:
 
-- **Arquitetura & Padrões:** Clean Architecture, DDD, SOLID, IoC, Repository  
-- **Desenvolvimento Back-End:** APIs REST, MVC, Identity, JWT, Microsserviços, Razor Pages  
-- **Testes:** XUnit, Fluent Assertions  
-- **Banco de Dados:** SQL Server, MySQL, PostgreSQL, MongoDB  
-- **Infra & DevOps:** Docker, Nginx, RabbitMQ, MinIO (S3), GitHub Webhooks, DigitalOcean, Hetzner, Heroku, Vercel  
-- **Integrações:** EfíPay (Gerencianet)  
-- **Front-End:** HTML5, CSS3, Javascript, Ajax, jQuery, Bootstrap,, Tailwind, ReactJS  
-- **Frameworks Web:** Laravel, Django  
-- **Metodologias Ágeis:** Scrum, Kanban  
+- **Backend:** C#, .NET, ASP.NET Core, Entity Framework, NHibernate, APIs REST, LINQ, AutoMapper, MediatR, DTOs, ASP.NET Identity, JWT, OAuth 2.0, PHP, Laravel, Python, Django.
+  
+- **Frontend:** JavaScript, TypeScript, React, Razor, Blade, AJAX, jQuery, HTML5, CSS3, Bootstrap, Tailwind CSS.
+  
+- **Arquitetura e Design:** Clean Architecture, Clean Code, DDD, Design Patterns, SOLID, Injeção de Dependências, IoC, Repository Pattern, CQRS.
+    
+- **Testes Unitários:** xUnit, FluentAssertions.
+  
+- **Banco de Dados e Cache:** SQL Server, MySQL, PostgreSQL, MongoDB, Redis.
+  
+- **Server e Cloud:** Azure App Service, Hetzner Cloud, Nginx, Object Storage (S3).
+  
+- **Microservices e Mensageria:**Docker, RabbitMQ.
+  
+- **Gateways e Financeiro:** Efípay (Gerencianet), Conta Azul.
+
+- **WebSockets & Real-Time:** Pusher, SignalR, Chatify API. 
+
+- **Metodologias Ágeis:** Scrum, Kanban.  
 
 ---
 
