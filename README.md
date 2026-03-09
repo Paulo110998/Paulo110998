@@ -47,7 +47,7 @@
   
 - **Server e Cloud:** Azure App Service, Hetzner Cloud, Nginx, Object Storage (S3).
   
-- **Microservices e Mensageria:**Docker, RabbitMQ.
+- **Microservices e Mensageria:** Docker, RabbitMQ.
   
 - **Gateways e Financeiro:** Efípay (Gerencianet), Conta Azul.
 
