@@ -1,6 +1,7 @@
 ### Olá! Eu sou Paulo Alves. Bem-vindo ao meu GitHub!! ✌️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-alves-76a9b6205/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/82993463414?text=Ol%C3%A1%2C%20Paulo!)
 
 ---
 
@@ -122,8 +123,8 @@ AVA white‑label em **PHP/Laravel** (em reescrita para **Golang + React**). Atu
 
 ## 📫 Vamos conversar?
 
-Estou sempre aberto a novos desafios e colaborações.  
-Conecte‑se comigo no [LinkedIn](https://www.linkedin.com/in/paulo-alves-76a9b6205/) ou explore meus repositórios aqui no GitHub!
+Conecte‑se comigo no [LinkedIn](https://www.linkedin.com/in/paulo-alves-76a9b6205/) ou fale diretamente pelo [WhatsApp](https://wa.me/82993463414?text=Ol%C3%A1%2C%20Paulo!).  
+Estou sempre aberto a novos desafios e colaborações.
 
 ---
 
