@@ -125,7 +125,7 @@ Efí Bank (Gerencianet) · Conta Azul · Asaas
 ### 📘 Stepforma – [stepforma.app](https://stepforma.app)
 Ambiente Virtual de Aprendizagem (AVA) para instituições públicas e municipais. Atuei no desenvolvimento, manutenção e deploys da API em **.NET 5**, integrando uma equipe multinacional (Portugal/Brasil) pela **Next Opinion**.
 
-### 🎓 Sledu – Akoma · Starlight *(solicitar demonstração)*
+### 🎓 Sledu – Akoma *(solicitar demonstração)*
 Projetei e desenvolvi a engenharia completa do software: **API com .NET 8**, frontend **React + TypeScript + Tailwind CSS**. Responsável também pela implantação em cloud (servidor, runtimes, banco, containers).
 
 ### 🧱 CleanArchRepo – [GitHub](https://github.com/Paulo110998/CleanArchRepo)
