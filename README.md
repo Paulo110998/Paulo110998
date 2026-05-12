@@ -75,32 +75,48 @@ Também possuo experiência em desenvolvimento de sistemas frontend, configuraç
 
 ## 📌 Competências Técnicas
 
-**Backend**  
-C# · .NET · ASP.NET Core · Entity Framework · LINQ · MVC · Golang · Express · Laravel · APIs REST · JWT · OAuth 2.0  
+**Linguagens**
+C# (principal) · PHP · Python · Go (Golang) · JavaScript · TypeScript
 
-**Frontend**  
-JavaScript · TypeScript · React · Next.js · Razor Pages · AJAX · jQuery · HTML5 · CSS3 · Bootstrap · Tailwind CSS  
+**Desenvolvimento .NET**
+ASP.NET Core · Entity Framework · Identity · LINQ · AutoMapper · Clean Architecture
 
-**Arquitetura & Design**  
-Clean Architecture · DDD · SOLID · Injeção de Dependências · IoC · Mediator · Repository · CQRS · Singleton  
+**Arquitetura & Design**
+DDD · SOLID · Dependency Injection · IoC · MediatR · Repository Pattern · CQRS · Singleton
 
-**Testes**  
-xUnit · FluentAssertions  
+**APIs RESTful**
+.NET · Go (Golang) · OpenAPI · Swagger
 
-**Banco de Dados & Cache**  
-SQL Server · MySQL · PostgreSQL · MongoDB · Redis  
+**Sistemas MVC**
+.NET · Laravel
 
-**Cloud & Infraestrutura**  
-Azure App Service · Hetzner Cloud · Linux Server · Nginx · Cron Jobs · Object Storage (S3) · Docker · RabbitMQ  
+**Autenticação**
+JWT · OAuth 2.0 · Session-based
 
-**Controle de Versões & Integrações**  
-Git · GitHub · GitHub Webhooks  
+**Testes Unitários**
+xUnit · FluentAssertions
 
-**Gateways Financeiros**  
-Efi Bank (Gerencianet) · Conta Azul · Asaas  
+**Frontend**
+React.js · Next.js · Razor · Ajax · jQuery · HTML5 · CSS · Bootstrap · Tailwind CSS
 
-**Metodologias Ágeis**  
-Scrum · Kanban  
+**Containers & Mensageria**
+Docker · RabbitMQ
+
+**Cloud & Infraestrutura**
+Azure App Service · Hetzner Cloud · Servidores Linux · Cron Jobs · Object Storage S3
+
+**Processamento de Dados**
+Migração e processamento de dados com Python
+
+**Banco de Dados & Cache**
+MySQL · PostgreSQL · SQL Server · MongoDB · Redis
+
+**Controle de Versão & Integrações**
+Git · GitHub · GitHub Webhooks
+
+**Gateways & Sistemas Financeiros**
+Efí Bank (Gerencianet) · Conta Azul · Asaas
+
 
 ---
 
