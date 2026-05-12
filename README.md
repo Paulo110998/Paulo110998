@@ -11,6 +11,7 @@
 Sou Desenvolvedor Backend com mais de 4 anos de experiência no desenvolvimento e manutenção de soluções para os setores de educação, gestão empresarial e networking. Tenho sólida atuação em sistemas EdTech, ERPs, plataformas de conexão profissional e aplicações customizadas, além de proficiência em espanhol nível C1.
 
 Também possuo experiência em desenvolvimento de sistemas frontend, configuração de servidores dedicados, migração de sistemas e dados, conteinerização e integração com gateways de pagamento.
+
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
