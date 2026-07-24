@@ -7,10 +7,13 @@
 ---
 
 ## 🧑‍💻 Sobre mim
+Sou Desenvolvedor Backend com mais de 4 anos de experiência no desenvolvimento de sistemas para os setores de educação (EdTech), gestão empresarial (ERP), networking e soluções corporativas.
 
-Sou Desenvolvedor Backend com mais de 4 anos de experiência no desenvolvimento e manutenção de soluções para os setores de educação, gestão empresarial e networking. Tenho sólida atuação em sistemas EdTech, ERPs, plataformas de conexão profissional e aplicações customizadas, além de proficiência em espanhol nível C1.
+Atuo principalmente com C#, .NET, ASP.NET Core, Golang (Go), PHP e Laravel, desenvolvendo Web APIs REST, MVC, integrações entre sistemas, aplicações escaláveis e soluções orientadas a boas práticas de arquitetura de software.
 
-Também possuo experiência em desenvolvimento de sistemas frontend, configuração de servidores dedicados, migração de sistemas e dados, conteinerização e integração com gateways de pagamento.
+Também possuo experiência em desenvolvimento Front-end com React.js, Next.js, Razor, Tailwind, JS e Typescript, administração de servidores Linux, Docker, migração de sistemas e dados, automação com Python e integração com gateways de pagamento.
+
+Proficiência em espanhol (C1).
 
 ---
 
