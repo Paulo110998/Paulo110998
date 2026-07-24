@@ -19,107 +19,120 @@ Proficiência em espanhol (C1).
 
 ## 🛠️ Tecnologias & Ferramentas
 
+### 🖥️ Linguagens
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
-
-  <!-- Backend -->
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth%202.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
-
-  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</div>
+
+### ⚙️ Back-end
+<div style="display: flex; flex-wrap: wrap; gap: 6px;">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Identity-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white" />
+  <img src="https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+</div>
+
+### 🎨 Front-end
+<div style="display: flex; flex-wrap: wrap; gap: 6px;">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+</div>
 
-  <!-- Banco de Dados & Cache -->
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" />
+### 🏛️ Arquitetura e Design
+<div style="display: flex; flex-wrap: wrap; gap: 6px;">
+  <img src="https://img.shields.io/badge/MVC-873276?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-3178C6?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  <img src="https://img.shields.io/badge/DDD-02569B?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOLID-2C3E50?style=for-the-badge&logo=stackshare&logoColor=white" />
+  <img src="https://img.shields.io/badge/CQRS-FF6F00?style=for-the-badge&logo=eventstore&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repository_Pattern-0078D4?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dependency_Injection-2C3E50?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoC-2C3E50?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design_Patterns-FFD700?style=for-the-badge&logo=googledocs&logoColor=black" />
+</div>
 
-  <!-- Cloud & Infra -->
-  <img src="https://img.shields.io/badge/Azure%20App%20Service-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+### 🔐 Autenticação
+<div style="display: flex; flex-wrap: wrap; gap: 6px;">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/Session_Based_Auth-000000?style=for-the-badge&logo=auth0&logoColor=white" />
+</div>
+
+### 🧪 Testes
+<div style="display: flex; flex-wrap: wrap; gap: 6px;">
+  <img src="https://img.shields.io/badge/xUnit-7B2D8B?style=for-the-badge&logo=xunit&logoColor=white" />
+  <img src="https://img.shields.io/badge/FluentAssertions-7B2D8B?style=for-the-badge&logo=.net&logoColor=white" />
+</div>
+
+### ☁️ Infra
+<div style="display: flex; flex-wrap: wrap; gap: 6px;">
+  <img src="https://img.shields.io/badge/Azure_App_Service-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/MinIO-S3-C72E49?style=for-the-badge&logo=minio&logoColor=white" />
-
-  <!-- DevOps & Mensageria -->
+  <img src="https://img.shields.io/badge/SSH-4EAA25?style=for-the-badge&logo=gnome-terminal&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Webhooks-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-  <!-- Testes & Qualidade -->
-  <img src="https://img.shields.io/badge/xUnit-7B2D8B?style=for-the-badge&logo=xunit&logoColor=white" />
-  <img src="https://img.shields.io/badge/FluentAssertions-7B2D8B?style=for-the-badge&logo=.net&logoColor=white" />
-
-  <!-- Metodologias -->
-  <img src="https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=scrumalliance&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Cron_Jobs-2C8EBB?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/MinIO-FF6C37?style=for-the-badge&logo=minio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
 </div>
 
----
+### 🗄️ Database e Cache
+<div style="display: flex; flex-wrap: wrap; gap: 6px;">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" />
+</div>
 
-## 📌 Competências Técnicas
+### 📦 Controle de Versão
+<div style="display: flex; flex-wrap: wrap; gap: 6px;">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Webhooks-181717?style=for-the-badge&logo=github&logoColor=white" />
+</div>
 
-**Linguagens**
-C# (principal) · PHP · Python · Go (Golang) · JavaScript · TypeScript
+### 🔗 Integrações
+<div style="display: flex; flex-wrap: wrap; gap: 6px;">
+  <img src="https://img.shields.io/badge/Efí_Bank-1A1A1A?style=for-the-badge&logo=mercadopago&logoColor=00C853" />
+  <img src="https://img.shields.io/badge/ContaAzul-005B96?style=for-the-badge&logo=googledrive&logoColor=white" />
+  <img src="https://img.shields.io/badge/Asaas-0D9488?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Migration-4B0082?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
 
-**Desenvolvimento .NET**
-ASP.NET Core · Entity Framework · Identity · LINQ · AutoMapper · Clean Architecture
+### 🤖 Produtividade com IA
+<div style="display: flex; flex-wrap: wrap; gap: 6px;">
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-4A6CF7?style=for-the-badge&logo=deepseek&logoColor=white" />
+</div>
 
-**Arquitetura & Design**
-DDD · SOLID · Dependency Injection · IoC · MediatR · Repository Pattern · CQRS · Singleton
-
-**APIs RESTful**
-.NET · Go (Golang) · OpenAPI · Swagger
-
-**Sistemas MVC**
-.NET · Laravel
-
-**Autenticação**
-JWT · OAuth 2.0 · Session-based
-
-**Testes Unitários**
-xUnit · FluentAssertions
-
-**Frontend**
-React.js · Next.js · Razor · Ajax · jQuery · HTML5 · CSS · Bootstrap · Tailwind CSS
-
-**Containers & Mensageria**
-Docker · RabbitMQ
-
-**Cloud & Infraestrutura**
-Azure App Service · Hetzner Cloud · Servidores Linux · Cron Jobs · Object Storage S3
-
-**Processamento de Dados**
-Migração e processamento de dados com Python
-
-**Banco de Dados & Cache**
-MySQL · PostgreSQL · SQL Server · MongoDB · Redis
-
-**Controle de Versão & Integrações**
-Git · GitHub · GitHub Webhooks
-
-**Gateways & Sistemas Financeiros**
-Efí Bank (Gerencianet) · Conta Azul · Asaas
-
+### 📋 Metodologias Ágeis
+<div style="display: flex; flex-wrap: wrap; gap: 6px;">
+  <img src="https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+</div>
 
 ---
 
