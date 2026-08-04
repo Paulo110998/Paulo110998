@@ -9,7 +9,7 @@
 ## 🧑‍💻 Sobre mim
 Sou Desenvolvedor Backend com mais de 4 anos de experiência no desenvolvimento de sistemas para os setores de educação (EdTech), gestão empresarial (ERP), networking e soluções corporativas.
 
-Atuo principalmente com C#, .NET, ASP.NET Core, Golang (Go), PHP e Laravel, desenvolvendo Web APIs REST, MVC, integrações entre sistemas, aplicações escaláveis e soluções orientadas a boas práticas de arquitetura de software.
+Atuo principalmente com C#, .NET e ASP.NET Core, além de Golang (Go), PHP e Laravel, desenvolvendo Web APIs REST, aplicações MVC, integrações entre sistemas, aplicações escaláveis e soluções orientadas às boas práticas de arquitetura de software.
 
 Também possuo experiência em desenvolvimento Front-end com React.js, Next.js, Razor, Tailwind, JS e Typescript, administração de servidores Linux, Docker, migração de sistemas e dados, automação com Python e integração com gateways de pagamento.
 
